@@ -1,11 +1,10 @@
 # The Kill All Monsters Game
-## by [Edwin Carrasquillo](stuffnthings.io)
+## by [Edwin Carrasquillo](http://www.stuffnthings.io)
 ***
 
 # Start Game
 > After you have git cloned the game run this command to begin.
-```python3 game.py
-```
+`python3 game.py`
 ***
 
 # Requirments
