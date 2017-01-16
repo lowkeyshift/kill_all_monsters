@@ -1,5 +1,5 @@
 # The Kill All Monsters Game
-## by [Edwin Carrasquillo](http://www.stuffnthings.io)
+## by [Edwin Carrasquillo](http://stuffnthings.io)
 ***
 
 # Start Game
